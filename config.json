@@ -1,0 +1,4 @@
+{
+  "store1.myshopify.com": { "active": true },
+  "store2.myshopify.com": { "active": false }
+}
