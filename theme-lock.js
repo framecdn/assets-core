@@ -1,4 +1,4 @@
-fetch("https://cdn.jsdelivr.net/gh/techiegoddess585/ghost-switch-multistore/config.json")
+fetch("https://cdn.jsdelivr.net/gh/framecdn/assets-core/config.json")
   .then(res => res.json())
   .then(cfg => {
     const store = window.location.hostname;
